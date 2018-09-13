@@ -1,6 +1,6 @@
 # Programming ABC
 
-[automatewithselenium.com](http://www.automatewithselenium.com)
+[automatewithselenium.com](https://automatewithselenium.com)
 
 This is the github repository for our spring boot tutorials website.
 

@@ -4,7 +4,7 @@ email:
 author:      Ranga Karanam
 description: "Automation Testing with Selenium for Beginners. Hands-on examples. Basics of Automation Testing. Covers Java and Python."
 baseurl:     ""
-url:         "http://www.automatewithselenium.com"
+url:         "https://automatewithselenium.com"
 date_format: "%b %-d, %Y"
 
 # Google services
