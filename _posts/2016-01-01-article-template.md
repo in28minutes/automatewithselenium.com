@@ -93,8 +93,8 @@ Below picture shows how we can execute this Post Service from Postman - my favor
 
 ## Next Steps
 - [Java Programming in 250 Steps](https://courses.in28minutes.com/p/java-tutorial-for-beginner-in-250-steps){:target="_blank"}
-- [Python Programming in 250 Steps](https://www.udemy.com/python-tutorial-for-beginners/){:target="_blank"}
-- [Python For Java Programmings](https://www.udemy.com/learn-python-programming-for-java-programmers?couponCode=IN28MINUTES){:target="_blank"}
+- [Python Programming in 250 Steps](https://www.udemy.com/course/python-tutorial-for-beginners/?couponCode=OCTOBER-2019){:target="_blank"}
+- [Python For Java Programmings](https://www.udemy.com/course/learn-python-programming-for-java-programmers?couponCode=OCTOBER-2019){:target="_blank"}
 - Learn Basics of Spring Boot - [Spring Boot vs Spring vs Spring MVC](http://www.springboottutorial.com/spring-boot-vs-spring-mvc-vs-spring){:target="_blank"}, [Auto Configuration](http://www.springboottutorial.com/spring-boot-auto-configuration){:target="_blank"}, [Spring Boot Starter Projects](http://www.springboottutorial.com/spring-boot-starter-projects){:target="_blank"}, [Spring Boot Starter Parent](http://www.springboottutorial.com/spring-boot-starter-parent){:target="_blank"}, [Spring Boot Initializr](http://www.springboottutorial.com/spring-initialzr-bootstrap-spring-boot-applications){:target="_blank"}
 
 
